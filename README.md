@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# ToDoList
+
+ToDoList is a simple task management web application built with React, offering basic features such as adding, deleting, editing, and updating tasks. It integrates Toastify for user-friendly notifications.
+
+## Features
+
+- Add tasks: Easily add new tasks to your to-do list.
+- Delete tasks: Remove unwanted tasks from your list with a single click.
+- Edit tasks: Modify existing tasks to update their details or description.
+- Update tasks: Mark tasks as completed or update their status as needed.
+- Toastify integration: Provides user-friendly notifications for task-related actions.
+
+## Technologies Used
+
+- React: Frontend framework for building the user interface.
+- Toastify: Library for displaying toast notifications.
+- HTML: Markup language for structuring the web pages.
+- CSS: Styling language for designing the user interface.
+- JavaScript: Programming language for adding interactivity to the application.
+  
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
