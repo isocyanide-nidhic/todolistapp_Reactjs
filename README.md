@@ -1,6 +1,7 @@
 # ToDoList
 
 ToDoList is a simple task management web application built with React, offering basic features such as adding, deleting, editing, and updating tasks. It integrates Toastify for user-friendly notifications.
+Deployed here CHECK IT out !! = https://isocyanide-nidhic.github.io/todolistapp_Reactjs/ 
 
 ## Features
 
